@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bfe2409-a8b7-4c77-b9f2-8ad73d80eab9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_App/config/multiav.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Web_App/config/multiav.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_App/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_App/tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Web_App/tests/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web_App/tests/test_tasks.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -34,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_tasks.test_status_cape.executor": "Run",
     "Python.Make_URL.executor": "Run",
     "Python.main.executor": "Run",
     "Python.tasks.executor": "Run",
@@ -47,6 +50,28 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Web_App" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_tasks.test_status_cape" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MultiAv_Manager" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_App/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tasks.test_status_cape&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_tasks.test_status_cape" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
