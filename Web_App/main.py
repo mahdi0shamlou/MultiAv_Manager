@@ -1,7 +1,9 @@
 from fastapi import FastAPI
+from tasks import router_tasks
 
 app = FastAPI()
-app.title="Cape Manager"
+app.title="MultiAv Manager"
+app.include_router(router_tasks)
 
 
 # Check if the script is run directly and start the server
